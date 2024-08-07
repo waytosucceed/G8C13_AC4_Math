@@ -1,0 +1,27 @@
+[
+  {
+    "question": "A school track team member ran for a total of 166.6 miles in practice over 59.5 days. How many miles did he average per day?",
+    "options": ["2.5 miles", "2.8 miles", "2.6 miles", "2.9 miles"],
+    "correct": 1
+  },
+  {
+    "question": "If the product of two decimal numbers is 956.81 and one of them is 29.35, find the other one.",
+    "options": ["33.5", "32.6", "35.6", "34.5"],
+    "correct": 1
+  },
+  {
+    "question": "What is the simplified value of 187.34 ÷ 10 + 56.56 ÷ 10?",
+    "options": ["34.38", "34.39", "24.39", "24.38"],
+    "correct": 2
+  },
+  {
+    "question": "Lisa and Arthur are in charge of distributing food supplies. They have 1437.6 kilograms of rice and need to divide it equally into 60 bags. How many kilograms of rice will each bag contain?",
+    "options": ["33.96 kgs", "23.96 kgs", "32.95 kgs", "24.95 kgs"],
+    "correct": 1
+  },
+  {
+    "question": "A car travels a distance of 100.4 kilometres on a full tank of gas. If the tank holds 25 litres of gas, how many kilometres per litre does the car achieve?",
+    "options": ["3.015 kilometres per litre", "4.015 kilometres per litre", "3.016 kilometres per litre", "4.016 kilometres per litre"],
+    "correct": 3
+  }
+]
